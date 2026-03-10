@@ -1,7 +1,7 @@
 # OpenAPI
 A directory to be used for OpenAPI specifications and Documentation. Contains just a SMALL subset of [all APIs we support](https://shuffler.io/search). Some are made by Shuffle, while other's are community contributed.
 
-**[More than 2500 apps on shuffler.io/search](https://shuffler.io/search)**
+**[More than 3000 apps on shuffler.io/search](https://shuffler.io/search)**
 
 <img width="837" alt="image" src="https://github.com/Shuffle/openapi-apps/assets/5719530/b7338d51-35bc-4f76-8daf-5d7b44c5ce17">
 
